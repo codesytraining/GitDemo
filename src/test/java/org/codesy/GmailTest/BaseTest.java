@@ -26,6 +26,9 @@ public class BaseTest {
 	WebDriver driver;
 	
 	public WebDriver initializeDriver() throws IOException {
+		//This is Comment for test
+		
+		//This is Comment for test
 		
 		//Read PROPERTIES file
 		Properties prop = new Properties();
